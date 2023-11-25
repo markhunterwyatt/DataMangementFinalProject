@@ -1,0 +1,31 @@
+Ticker,Name,Sectors,Industries,Followers,Analysts
+AMZN,Amazon.com Inc.,Consumer Discretionary,Internet & Catalog Retail,"10,779","6,874"
+AAPL,Apple Inc.,Information Technology,Computers & Peripherals,"38,278","12,178"
+MSFT,Microsoft Corporation,Information Technology,Software,"15,989","4,459"
+GOOG,Alphabet Inc.,Information Technology,Internet Software & Services,"21,806","5,653"
+TSLA,Tesla Inc.,Consumer Discretionary,Automobiles,"9,367","7,912"
+JNJ,Johnson & Johnson,Health Care,Pharmaceuticals,"2,676","1,109"
+PG,Procter & Gamble Co.,Consumer Staples,Household & Personal Products,"1,600",703
+NVDA,NVIDIA Corporation,Information Technology,Semiconductors,"11,345","4,912"
+CSCO,"Cisco Systems, Inc.",Information Technology,Communications Equipment,"2,073","2,334"
+BABA,Alibaba Group Holding Ltd.,Consumer Discretionary,Internet & Catalog Retail,"3,601","3,194"
+HD,"The Home Depot, Inc.",Consumer Discretionary,Specialty Retail,"1,510","1,881"
+BIDU,"Baidu, Inc.",Information Technology,Internet Software & Services,"2,007","1,935"
+WMT,Wal-Mart Stores Inc.,Consumer Staples,Food & Staples Retailing,"2,386","1,565"
+CRM,Salesforce.com,Information Technology,Software,"2,034","2,381"
+LULU,Lululemon Athletica Inc.,Consumer Discretionary,"Textiles, Apparel & Luxury Goods","1,786","2,297"
+TGT,Target Corp.,Consumer Discretionary,Multiline Retail,889,"1,617"
+PANW,"Palo Alto Networks, Inc.",Information Technology,Communications Equipment,855,"1,149"
+ADBE,Adobe Systems Inc.,Information Technology,Software,"1,417","1,808"
+VMW,"VMware, Inc.",Information Technology,Software,733,"1,104"
+MU,Micron Technology Inc.,Information Technology,Semiconductors,"2,481","3,466"
+NKE,Nike Inc.,Consumer Discretionary,"Textiles, Apparel & Luxury Goods","2,938","2,734"
+ORCL,Oracle Corporation,Information Technology,Software,"1,481","1,889"
+BB,BlackBerry,Information Technology,Computers & Peripherals,"1,961","2,002"
+HPQ,Hewlett-Packard Company,Information Technology,Computers & Peripherals,818,"1,144"
+COST,Costco Wholesale Corporation,Consumer Staples,Food & Staples Retailing,"2,354","1,589"
+AMAT,Applied Materials Inc.,Information Technology,Semiconductors,849,"1,028"
+BAC,Bank of America Corporation,Financials,Diversified Financial Services,"3,859","2,109"
+CVX,Chevron Corporation,Energy,"Oil, Gas & Consumable Fuels","1,902",773
+AMGN,Amgen Inc.,Health Care,Biotechnology,"1,212",714
+PG,Procter & Gamble Co.,Consumer Staples,Household & Personal Products,"1,600",703
